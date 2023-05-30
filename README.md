@@ -11,4 +11,4 @@
 1. Показать контакты ( def data() )
 2. Добавить контакт ( def add_contact(contact) )
 3. Поиск данных ( find_contact(data) )
-4. Разработчики: view.py - в поисках model.py - Иванютин Максим (Maximus556) controller.py - Иванютин Максим (Maximus556)
+4. Разработчики: view.py - Андрей model.py - Иванютин Максим (Maximus556) controller.py - Иванютин Максим (Maximus556)
